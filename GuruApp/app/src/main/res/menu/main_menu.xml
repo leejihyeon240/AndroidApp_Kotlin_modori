@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/mmenu"
+        android:title="메인으로"
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/sub1"
+                android:title="관리자 정보"/>
+            <item
+                android:id="@+id/sub2"
+                android:title="관리자에게 문의하기"/>
+        </menu>
+    </item>
+
+
+</menu>

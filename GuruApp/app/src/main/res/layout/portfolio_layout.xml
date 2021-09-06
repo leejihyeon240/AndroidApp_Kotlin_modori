@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_background">
+
+        <ImageView
+            android:id="@+id/imgPortfolio"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:background="@drawable/round_background2"
+            android:scaleType="fitXY"
+            tools:srcCompat="@drawable/stopwatch_ob4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="bottom"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgColor"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="5dp"
+                    app:srcCompat="@drawable/portfolio_icon" />
+
+                <TextView
+                    android:id="@+id/tvPortfolioTitle"
+                    style="@style/Text.Timer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="타이틀"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvPortfolioDate"
+                    style="@style/Text.Timer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2020.01.01 ~ 2020.01.02" />
+
+                <TextView
+                    android:id="@+id/tvPortfolioContent"
+                    style="@style/Text.Timer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="활동 내용" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

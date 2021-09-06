@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:text="과목명"
+        android:background="@color/brown"/>
+
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="16dp"
+        android:hint="내용을 입력하세요."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:text="학점 입력"
+        android:background="@color/brown"/>
+
+    <EditText
+        android:id="@+id/credit"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:hint="내용을 입력하세요."
+        android:inputType="numberSigned|number|numberDecimal"
+        android:textColor="#000000"
+        android:textSize="16dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:text="성적 입력"
+        android:background="@color/brown"/>
+
+    <EditText
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:hint="내용을 입력하세요."
+        android:inputType="numberSigned|numberDecimal"
+        android:textColor="#000000"
+        android:textSize="16dp" />
+
+</LinearLayout>

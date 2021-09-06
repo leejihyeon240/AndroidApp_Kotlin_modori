@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/dialog_question_tv_title"
+        style="@style/Text.Timer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/brown"
+        android:gravity="center"
+        android:text="관리자 정보"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/dialog_question_tv_info"
+        style="@style/Text.Timer"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="박지은 jinwoo1265@naver.com\n이승언 tmd0048@naver.com\n이지현 xnaxna1@naver.com\n황혜림 heyrim2010@naver.com"
+        android:textAlignment="gravity"
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+
+</LinearLayout>

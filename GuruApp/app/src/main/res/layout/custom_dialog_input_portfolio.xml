@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/Text.Timer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/brown"
+        android:gravity="center"
+        android:text="포트폴리오 입력"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+    <ImageView
+        android:id="@+id/imgInputPortfolio"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="false"
+        android:background="@drawable/ic_baseline_image_24" />
+
+    <EditText
+        android:id="@+id/edtTitle"
+        style="@style/Text.Timer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/brown"
+        android:backgroundTint="@color/brown"
+        android:gravity="center"
+        android:hint="타이틀"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="16dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnStartDate"
+            style="@style/Text.Timer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="@color/dark_brown"
+            android:text="시작 날짜"
+            android:textColor="#FFFFFF"
+            app:cornerRadius="30dp" />
+
+        <Button
+            android:id="@+id/btnLastDate"
+            style="@style/Text.Timer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/dark_brown"
+            android:text="종료 날짜"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            app:cornerRadius="30dp" />
+
+        <Button
+            android:id="@+id/btnColor"
+            style="@style/Text.Timer"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:backgroundTint="@color/dark_brown"
+            android:text="색"
+            android:textColor="#FFFFFF"
+            app:cornerRadius="30dp" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edtContent"
+        style="@style/Text.Timer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:hint="활동 내용을 입력해주세요."
+        android:textColor="#000000"
+        android:textSize="16dp" />
+
+</LinearLayout>

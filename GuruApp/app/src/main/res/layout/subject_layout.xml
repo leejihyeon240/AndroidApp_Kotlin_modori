@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:id="@+id/subjectLayout"
+    android:descendantFocusability="blocksDescendants">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:backgroundTint="@color/brown"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:scaleType="center"
+        android:src="@drawable/ic_baseline_play_arrow_24"
+        android:tint="@color/white"
+        app:backgroundTint="@color/brown"
+        app:fabSize="mini"
+        app:tint="@color/white" />
+
+    <TextView
+        android:id="@+id/tvSubject"
+        style="@style/Text.Timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:clickable="false"
+        android:ellipsize="end"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:maxWidth="120dp"
+        android:maxLines="1"
+        android:text="과목"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        style="@style/Text.Timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:text="시간"
+        android:textSize="18sp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable = "false"/>
+
+    <TextView
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/yellow_light"
+        android:text="x"
+        android:layout_marginRight="50dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable = "false"/>
+
+</LinearLayout>

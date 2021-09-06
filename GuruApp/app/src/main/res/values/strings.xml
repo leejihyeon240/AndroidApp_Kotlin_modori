@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">modori</string>
+    <string name="login">login</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="register">sign up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="b_1title">“권태와 노잼시기에 빠진 어른이들을 위한” 방학에 나를 위해 할 수 있는 것들 33개</string>
+    <string name="b_1msg">&lt;돌아보기&gt;\n
+- 온전히 나를 위한 하루 정하기 : “옆에 있는 사람보다 나를 더 관찰하는 시간.”\n
+- 하루 10분 꾸준히 명상해보기 : “스스로 칭찬도 해준다면 자존감 뿜뿜.”\n
+- 무기력을 버틸 수 있는 인생의 최종 목표 세우기 : “누구에게나 무기력과 권태가 찾아온다.”\n
+- 힘들 때 기댈 수 있는 인생 모토 만들기 : “분명 다음 학기를 달려가는데 큰 힘이 될 거야.”\n
+- 매일 하루씩 나의 장점 써보기 : “너는 꽤 괜찮은 사람인 걸.”\n
+- 좋아하는 것과 싫어하는 것 기록하기 : “나도 몰랐던 취향을 찾을 수 있다.”\n
+- 지인들에게 나에 대한 질문 1개씩 받아서 답하기 : “거짓 없이 나를 표현하려고 해보자!”\n
+- 기억이 머무는 추억의 장소 찾아가기 : “꽤 괜찮은 기억도 많다는 거.”\n
+- 유언장 써보기 : “생각보다 위로가 된다.”\n
+- 청춘 글/영화 보면서 내 인생 돌아보기 : “몰입하고, 펑펑 울고 난 후 느끼는 일종의 해방감.”\n
+&lt;관계/표현&gt;\n
+- 목적 없이 절절한 사랑해보기 : “최고는 아니어도 최선의 사랑을.”\n
+- 사소한 것들에 대한 감사일기 써보기 : “무더진 감성을 마구 자극해줄 촉매제!”\n
+- 옆에 있는 사람들에게 무작정 마음 표현하기 : “권태는 마음 표현과 반비례한다.”\n
+- 뻥 뚫린 곳에 가서 속 시원하게 소리 질러보기 : “답답함 해소가 잘 안된다면 소리를 질러보자.”\n
+- 하루동안 NO만 말해보기 : “아니라고 말할 수 있는 용기!”\n
+- 화날 때 참지 말고 제대로 화 내보기 : “가끔은 나를 위해 이기적일 필요가 있다.”\n
+- 미안할 때 진심으로 사과해보기 : “용기가 너에게 더 큰 재산을 줄 거야.”\n
+- 마음에 드는 사람 번호 물어보기 : “GO!"
+- 나 스스로에게 관대해져보기 : “스스로를 너무 괴롭히지 말자.”\n
+&lt;도전&gt;
+- 가까운 곳이라도 나홀로 배낭 여행 해보기 : “나홀로 여행은 새로운 나를 만나는 일.”
+- 지금 바로 떠날 수 있도록 운전면허 따기 : “대학 방학기간이 도전하기 가장 좋다.”
+- 스트레스 풀 수 있는 취미생활 도전하기 : “필수! 지칠 때 버티는 원동력이 된다.”
+- 고민하지 않고 번지점프 뛰어보기 : “친구들은 충분히 할 수 있어.”
+- 여행 에세이 써보기 : “상업적인 글이 아니라 온전히 나를 위한 에세이!”\n
+&lt;일탈&gt;
+- 평소 해보지 않던 파격적인 스타일 해보기 : “일상에서 할 수 있는 귀여운 일탈!”
+- 모르는 길로만 도착지 없이 산책 해보기 : “길을 어디에나 있다. 지금 우리의 삶처럼.”
+- 하루 동안 마음 가는 대로 사보기 : “나를 위한 소소한 사치.”
+- 통금 시간 어겨보기 : “부모님과 독립을 시도해보는 것도 좋은 생각이다.”
+- 클럽이나 페스티벌에서 밤새 놀아보기　：　“아무 생각 없이 놀아 보자.”</string>
+    <string name="b_2title">방만 잘 구한다고 자취왕이 아니라는 사실! 자취방 이사 잘하는 꿀팁 12</string>
+    <string name="b_2msg">- 우편물 주소 변경 : 적어도 이사 2주 전, 여유를 두고 바꾸는 걸 추천. 우체국 우편물 주소지 변경 서비스를 이용하면 한번에 변경할 수 있어! 하나 하나 바꿨던 참담한 경험... 다시는 하지 않길 바랄게 (피꺼솟)
+- 청구지 주소 변경 : 카드, 보험 등 청구지 주소를 한 번에 변경해 주는 서비스야! 우편물 주소지 변경할 때 같이 하는 게 좋겠지? ktmoving서비스를 이용하면 일괄 변경이 가능해.\n
+- 통장 이체 한도 변경 : 이사 당일 보증금처럼 큰 돈이 왔다 갔다 하기 때문에 한도가 낮다면 미리 높여놔야 당황스러운 모멘트를 피할 수 있어ㅠ 흐규그그귝 각자 사용하는 은행에서 변경 가능해!\n
+- 이사 폐기물 처리 : *중요!* 2주 전쯤 미리 해결할 것을 추천해. 이사 폐기물은 동사무소에서 스티커를 사서 붙인 후 폐기, 대형 가전제품은 폐가전 수거 센터에 예약하면 무료로 수거 가능해~\n
+- 날짜, 업체 선정 : 민족 대이동의 참상을 피하고 싶다면 평일 이사를 추천할게! 업체는 3~4곳을 비교해보고 견적이 합리적인 곳을 찾되 깨지기 쉬운 물품이 있다면 파손 보상 조건이 어떻게 되는지 꼭 확인하자!\n
+- 장기 수선 충당금 받기 : 오피스텔에 거주했던 친구라면 확.인.필.수. 장기수선충당금은 관리비 고지서를 보면 확인할 수 있어~ 임대가 끝나고 나면 반드시 돌려받아야 할 돈이기 때문에 꼭 챙기자!\n
+- 현금 준비 : 현금 준비는 기본 센스 중에 기본! 특히 포장 이사하는 친구들이라면 미리 이사 비용 + 예비 5만원 정도는 미리 빼놓는 게 좋아.\n
+- 확정일자 받아두기 : 확정일자는 나의 피 같은 보증금을 보호하기 위한 보험과 같아. 보증금이 적은 경우 대수롭지 않게 생각할 수 있지만 미리 확정일자 받는 습관을 들이고 불이익 받지 말자~\n
+- 전입 신고 : 법상 확정일자 하나만으로 보증금 보호를 받지 못해! [전입 신고 + 확정일자 = 이사 당일] 이 공식 잊지 말자!\n
+- 공실 사진 찍어두기 : 짐을 들여놓기 전에 공실 상태의 사진 꼭 찍어두기!! 특히 손상이 있는 부분은 꼭 찍어둬야 퇴실 시 책임을 피할 수 있어. 비정한 세상... 아리가또 하다.\n
+- 이삿짐 재확인 : 귀중품이 있는 경우 특히 확인하자! 실제로 재확인을 하지 않아서 신상 스케이트보드를 이삿짐센터로 태워 보냈었지...\n
+- 쓰레기봉투 준비 : 다른 지역으로 이사하는 경우가 많기 때문에 봉투는 이사 후에 구매하길 추천해~ 청소할 때 세상 쓰레기들이 다 나오기 때문에 꼭 구비해두자!</string>
+    <string name="b_3title">새내기 라이프 잘 보내는 방법 8</string>
+    <string name="b_3msg">- 단톡방에 연연하지 않기 : 새내기 단톡방에서 친해지기 위해 나도 대화해야 하나 고민하는 친구들 너무 스트레스 받지 않아도 돼! 나중에 통성명하고 친해질 기회가 많아.\
+- 주량 미리 알고 가기 : 흑역사 만들기 전에 미리 주량을 파악하고, 술을 조심하는 게 좋아! 흥이 오르다 보면 술부심을 부리기도 하는데, 과유불급이야 친구들.\n
+- MT, OT 참여해보기 : 필수로 참석할 필요는 없지만, 엠티나 새터에서 만난 친구들과 대학 친구가 되는 경우가 많아! 또한 선배들과 얼굴을 익히며 밥약할 수도 있어!\n
+- 선배와 밥약하기 : 새내기가 먼저 연락을 해주면 선배들은 반가워해! 갑작스레 연락하기 보다 먼저 연락처를 물어보는 게 예의야! 감사 인사와 보답을 하면 더 센스 있겠지?\n
+- 학과생활 먼저 해보기 : 처음부터 과생활을 안 하다 보면 계속 안 하게 되는데 우선 1학기 때 과생활해보는 걸 먼저 추천해! 일단 해보는 게 아쉬움 남는 것보다 낫다는 사실!\n
+-  동아리 활동하기 : 동아리는 과 동아리, 중앙동아리, 연합동아리 등 범위에 따라서 다양해! 과동은 선배&amp;동기들과 더 친해질 수 있고, 중동을 타과 사람을 만날 수 있지!\n
+- 1학년 때 학점 관리하기 :１학년이 가장 놀기 좋은 학년이긴 하지만, 반대로 가장 쉽게 학점을 딸 수 있는 학년이기도 해! 막학년을 여유롭게 보내고 쉽다면 학점관리 해두자!\n
+- 아르바이트해보기 : 아르바이트 경험이 나중에 자소서와 연결될 수도 있다는 사실! 아르바이트를 하고 난 후, 도움이 될만한 내용을 미리 기록해두면 더 좋겠지?</string>
+    <string name="b_4title">교내, 국장 외에도 장학금 종류가 이렇게 많았어..? 아직 몰랐다면 지금부터라도 알뜰살뜰 챙겨보자!</string>
+    <string name="b_4msg">- 다자녀 국가장학금\n
+* 지원 금액 : 소득 분위별 차등\n
+* 특징 : 8분위 이하 다자녀 가구(3명 이상)의 모든 자녀에게 지원\n\n
+- 인문 100년 장학금 / 국가 우수 장학금\n
+* 지원 금액 : 등록금 전액, 학업 보조금 200만원\n
+* 특징 : 해당 대학 자체 규정에 의거하여 선발, 3학년 재학생 중 대학의 추천을 받은 자\n\n
+- 현대차 정몽구 재단 (인재양성장학금)\n
+* 지원 금액: 등록금 전액, 학업 보조금 180만원\n
+* 특징 : 졸업 시까지 매 학기 지속 지원, 기초 학문 분야 지원 대상은 2학년 재학생, 문화예술 분야 지원 대상은 학부 재학생\n\n
+- S- 다자녀 국가장학금\n
+* 지원 금액 : 소득 분위별 차등\n
+* 특징 : 8분위 이하 다자녀 가구(3명 이상)의 모든 자녀에게 지원\n\n
+- S&amp;T 장학 재단 (미래 지향 장학금)\n
+* 지원 금액 : 연간 800만원\n
+* 특징 : 학업 성적(해당 학기 평점 평균 3.5 이상), 어려운 가정형편 때문에 학업이 곤란한 학생에게 지급\n\n
+- 서울 장학 재단 (서울 희망 대학 장학금)\n
+*지원 금액 : 학기 50~100만원\n
+* 특징 : 서울 소재 대학교 또는 서울 시민의 자녀, 타 시도 소재 대학교의 정규 학기 학부생 차상위계층, 소득 0~4분위\n\n
+- 인천 인재 육성 재단 (인천인 장학금)\n
+*지원 금액 : 200만원\n
+* 특징 : 직전 학기 3.5이상인 자, 신입생은 고등학교 3-2학기 3등급 이내, 중위 소득 100분의 120이하인 자 T 장학 재단 (미래 지향 장학금)\n
+* 지원 금액 : 연간 800만원\n
+* 특징 : 학업 성적(해당 학기 평점 평균 3.5 이상), 어려운 가정형편 때문에 학업이 곤란한 학생에게 지급\n</string>
+    <string name="b_5title">대학생 인생 체크카드 추천 7개!
+친구들은 평소에 어떤 체크카드 써? 무슨 혜택이 있는지, 뭐가 좋은지 아직 모르겠다고?!</string>
+    <string name="b_5msg">&lt;체크카드 추천 LIst&gt;\n
+1. 우리 : 배달의 민족 체크카드\n
+- 푸드 할인(배달의 민족, 배민라이더스 20% 할인)\n
+- 쇼핑 할인(G마켓, 옥션 10% 할인)\n
+- 영화 할인(CGV, 롯데시네마, 메가박스 10% 할인)\n
+- 어학 할인(YBN 어학 시험, 해커스 어학원, 파고다 10% 할인)\n\n
+2. 하나 : 마패 체크카드\n
+- 교통 할인(버스, 지하철 20% 할인, 월 15,000)\n
+- 편의점 할인(GS25, CU, 세븐 일레븐 10%할인)\n
+- 커피 할인(스타벅스, 커피빈 10% 할인)\n\n
+3. KB국민 : 노리 체크카드\n
+- 교통 할인(버스, 지하철 10% 청구 할인)\n
+- 영화 할인(CGV 35% 환급 할인)\n
+- 푸드 할인(아웃백, VIPS, 스타벅스 20% 할인)\n
+- 놀이공원 할인(롯데월드, 에버랜드 50% 환급 할인)\n\n
+4. NH농협 : NH20해봄 체크카드\n
+- 푸드 할인(배달의 민족, 요기요 5% 할인)\n
+- 교통 할인(버스, 지하철 10% 할인)\n
+- 영화 할인(CGV 2000원 할인)\n
+- 놀이공원 할인(전국 놀이공원 30~50%할인)\n\n
+5. IBK : 카카오페이 체크카드\n
+- 카카오페이 할인 : 카카오페이 가맹점에서 결제 시, 15% 할인\n
+- 온라인 쇼핑 할인 : 11번가, G마켓, 옥션, 위메프, 쿠팡, 티몬, 10% 할인\n
+- 오프라인 쇼핑 할인 : 올리브영, 랄라블라, 편의점, 다이소 5% 할인\n\n
+6. 케이뱅크 : 네이버 페이 체크카드\n
+- 포인트 적립 : 온오프라인 가맹점 이용금액1.2% 네이버 포인트로 적립\n
+- 쇼핑 할인 : GS25 편의점 행사 상품 현장 할인 및 GS&amp;POINT 적립\n
+- 수수료 무료 : GS25 편의점, 우리은행 ATM/CD기 입출금, 이체 수수료 무료\n\n
+7. 우체국 : 영리한 체크카드\n
+- 푸드 캐시백: 맥도날드, 롯데리아, 버거킹, 죠스 떡볶이 10$ 캐시백\n
+- 책 캐시백 : 교보문고, YES24 5% 캐시백\n
+- 영화 캐시백 : CGV, 메가박스, 롯데시네마 10% 캐시백\n
+- 어학 캐시백 : 토익, 텝스 응시료, YBM시사, 파고다 10% 캐시백</string>
+    <string name="logout">logout</string>
+    <string name="tv_name">이름</string>
+    <string name="tv_grade1">1학년</string>
+    <string name="tv_grade2">2학년</string>
+    <string name="tv_grade3">3학년</string>
+    <string name="tv_grade4">4학년</string>
+    <string name="tv_major">학과</string>
+    <string name="tv_ID">아이디</string>
+    <string name="btn_checkTwice">중복 체크</string>
+    <string name="btn_register">회원가입</string>
+    <string name="tv_Password">패스워드</string>
+    <string name="major_name1">국어국문학과</string>
+    <string name="major_name2">영어영문학과</string>
+    <string name="major_name3">독어독문학과</string>
+    <string name="major_name4">불어불문학과</string>
+    <string name="major_name5">중어중문학과</string>
+    <string name="major_name6">일어일문학과</string>
+    <string name="major_name7">사학과</string>
+    <string name="major_name8">기독교학과</string>
+    <string name="major_name9">경제학과</string>
+    <string name="major_name10">문헌정보학과</string>
+    <string name="major_name11">사회복지학과</string>
+    <string name="major_name12">아동학과</string>
+    <string name="major_name13">행정학과</string>
+    <string name="major_name14">언론영상학부</string>
+    <string name="major_name15">교육심리학과</string>
+    <string name="major_name16">체육학과</string>
+    <string name="major_name17">수학과</string>
+    <string name="major_name18">화학생명환경과학부</string>
+    <string name="major_name19">원예생명조경학과</string>
+    <string name="major_name20">식품응용시스템학부</string>
+    <string name="major_name21">경영학과</string>
+    <string name="major_name22">패션산업학과</string>
+    <string name="major_name23">디지털미디어학과</string>
+    <string name="major_name24">정보보호학과</string>
+    <string name="major_name25">소프트웨어융합학과</string>
+    <string name="major_name26">데이터사이언스학과</string>
+    <string name="major_name27">산업디자인학과</string>
+    <string name="major_name28">컴퓨터학과</string>
+    <string name="major_name29">콘텐츠디자인학과</string>
+    <string name="major_name30">현대미술전공</string>
+    <string name="major_name31">공예전공</string>
+    <string name="major_name32">시각디자인전공</string>
+    <string-array name="major_list">
+        <item>@string/major_name1</item>
+        <item>@string/major_name2</item>
+        <item>@string/major_name3</item>
+        <item>@string/major_name4</item>
+        <item>@string/major_name5</item>
+        <item>@string/major_name6</item>
+        <item>@string/major_name7</item>
+        <item>@string/major_name8</item>
+        <item>@string/major_name9</item>
+        <item>@string/major_name10</item>
+        <item>@string/major_name11</item>
+        <item>@string/major_name12</item>
+        <item>@string/major_name13</item>
+        <item>@string/major_name14</item>
+        <item>@string/major_name15</item>
+        <item>@string/major_name16</item>
+        <item>@string/major_name17</item>
+        <item>@string/major_name18</item>
+        <item>@string/major_name19</item>
+        <item>@string/major_name20</item>
+        <item>@string/major_name21</item>
+        <item>@string/major_name22</item>
+        <item>@string/major_name23</item>
+        <item>@string/major_name24</item>
+        <item>@string/major_name25</item>
+        <item>@string/major_name26</item>
+        <item>@string/major_name27</item>
+        <item>@string/major_name28</item>
+        <item>@string/major_name29</item>
+        <item>@string/major_name30</item>
+        <item>@string/major_name31</item>
+        <item>@string/major_name32</item>
+    </string-array>
+
+    <string name="spinner_portfolio1" translatable="false">스와이프뷰로 보기</string>
+    <string name="spinner_portfolio2" translatable="false">리스트로 보기</string>
+    <string-array name="spinner_list">
+        <item>@string/spinner_portfolio1</item>
+        <item>@string/spinner_portfolio2</item>
+    </string-array>
+</resources>
